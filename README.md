@@ -1,1 +1,3 @@
-This repository contains the branding assets.
+# branding
+
+This repository contains our  branding assets.
